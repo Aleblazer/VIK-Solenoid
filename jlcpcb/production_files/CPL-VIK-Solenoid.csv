@@ -1,5 +1,2 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-D1,1N4001,D_SOD-123F,182.19,-79.7175,90.0,bottom
-J2,vik-module-connector,vik-module-connector-horizontal-mini,198.42,-87.13,270.0,bottom
-Q1,TIP120,TO-252-2,184.1,-89.73,270.0,bottom
-R1,R2.2,R_1206_3216Metric,186.0275,-79.79,90.0,bottom
+D1,1N4001,D_SOD-123F,192.16,-81.35,90.0,bottom
