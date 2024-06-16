@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VIK-Solenoid")(type "KiCad")(uri "${KIPRJMOD}/VIK-Solenoid.pretty")(options "")(descr ""))
+  (lib (name "vik")(type "KiCad")(uri "${KIPRJMOD}/vik.pretty")(options "")(descr ""))
+)
